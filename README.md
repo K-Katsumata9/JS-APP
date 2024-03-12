@@ -1,1 +1,1 @@
-# JS-APP
+# JavaScript学習用
